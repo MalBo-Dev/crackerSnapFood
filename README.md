@@ -2,39 +2,35 @@
 
 # کد تخفیف رایگان اسنپ فود
 
-یک وب سرویس (API) برای جست و جوی کتاب 
+یک اسکریپت که میتواند کد تخفیف رایگان اسنپ فود رایگان بدست آورد ! 
 
 ## نحوه اجرا : 
 
-فایل index.php را در سرور خود آپلود میکنید.
-
-و پارامتر نام را برای آن با متود گت مشخص میکنید.
-
-مثال : 
-
-https://yourdomain.com/index.php?name=laravel
-
-خروجی شما بصورت جیسون خواهد بود
+ابتدا وارد وبسایت https://snappfood.ir میشوید و وارد حساب کاربری میشوید. 
+یک غذا رو انتخاب میکنید و به صفحه وارد کردن کد تخفیف میروید .
+یک متن تستی در قسمت ارسال کد تخفیف میگذارید و مرورگر رو در حالت اسنیف قرار میدهید.
+ادرسی که کد ارسال شد رو در لاین 25 اسکریپت قرار میدهید.
+بعد از اجرا کردن اسکریپت باید یک فایل از کد تخفیف های رندوم داشته باشید که اسکریپت آنها رو تست میکنه.
+بعد از اجرای اسکریپت نام فایلی txt که کد های رندوم در ان قرار دارد رو به اسکریپت میدهید.
+اسکریپت شروع به تست کد ها میکنه و هرکدوم درست باشه بهتون خبر میده.
 
 موفق باشید
 
 -------------------------------------------------------------------------
 
-# Book search
+# Snapfood free discount code
 
-A web service (API) for book search
+A script that can get a free Snapfood discount code!
 
 ## How to run:
 
-You upload the index.php file to your server.
-
-And you specify the name parameter for it with the get method.
-
-Example :
-
-https://yourdomain.com/index.php?name=laravel
-
-Your output will be as Json
+First, enter the website https://snappfood.ir and enter the user account.
+You choose a food and go to the page to enter the discount code.
+You put a test text in the discount code submission section and put the browser in sniff mode.
+You put the address where the code was sent in line 25 of the script.
+After running the script, you should have a random discount code file that the script tests.
+After running the script, you give the name of the txt file that contains the random codes to the script.
+The script starts testing the codes and informs you if each one is correct.
 
 Good luck
 
@@ -47,3 +43,11 @@ Good luck
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
 [![instagram](https://img.shields.io/badge/Channel-Youtube-red)](https://www.youtube.com/channel/UCRXB3lWiZHPwfgcXMjfUzYA)
 [![instagram](https://img.shields.io/badge/Channel-Instagram-pink)](https://instagram.com/malbo.dev)
+
+# Warning - هشدار
+
+⚠️من هیچگونه مسئولیتی در قبال استفاده نادرست شما ندارم. 
+این ابزار فقط برای اهداف آموزشی میباشد. ⚠️
+⚠️I am not responsible for your misuse.
+This tool is for educational purposes only. ⚠️
+
