@@ -4,7 +4,7 @@
 
 یک اسکریپت که میتواند کد تخفیف رایگان اسنپ فود رایگان بدست آورد !
 
-![Game Process](https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif)
+https://user-images.githubusercontent.com/111338534/202714267-96f29b36-9cb7-43b3-b06b-0a53259ea427.mp4
 
 ## نحوه اجرا : 
 
