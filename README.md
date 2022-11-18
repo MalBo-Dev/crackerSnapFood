@@ -4,7 +4,9 @@
 
 یک اسکریپت که میتواند کد تخفیف رایگان اسنپ فود رایگان بدست آورد !
 
-<img src="https://s25.picofile.com/file/8455778368/video.gif">
+<video width="400" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
 
 ## نحوه اجرا : 
 
