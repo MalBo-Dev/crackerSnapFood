@@ -1,4 +1,4 @@
-<img align="center" src='https://files.virgool.io/upload/users/104419/posts/dmviwncef8fg/01p6rur2cptj.png'>
+<p align="center"><img src='https://files.virgool.io/upload/users/104419/posts/dmviwncef8fg/01p6rur2cptj.png'></p>
 
 # کد تخفیف رایگان اسنپ فود
 
