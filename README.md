@@ -49,6 +49,6 @@ Good luck
 ⚠️من هیچگونه مسئولیتی در قبال استفاده نادرست شما ندارم. 
 این ابزار فقط برای اهداف آموزشی میباشد. ⚠️
 <br/>
-⚠️I am not responsible for your misuse.
-This tool is for educational purposes only. ⚠️
+<p align="left">⚠️I am not responsible for your misuse.
+This tool is for educational purposes only. ⚠️</p>
 
